@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.TodoReact",
+    "appName": "nameofyourapp",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }
